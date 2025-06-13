@@ -114,3 +114,38 @@ STS2024-Challenge/
 │   ├── panoramic_winners.png  
 │   └── cbct_winners.png  
 └── evaluation_code/        # Official evaluation scripts (link to GitHub)  
+```
+
+
+
+## Reference
+
+```
+@article{wang2024sts,
+title={STS MICCAI 2023 Challenge: Grand challenge on 2D and 3D semi-supervised tooth segmentation},
+author={Wang, Yaqi and Zhang, Yifan and Chen, Xiaodiao and Wang, Shuai and Qian, Dahong and Ye, Fan and Xu, Feng and Zhang, Hongyuan and Zhang, Qianni and Wu, Chengyu and others},
+journal={arXiv preprint arXiv:2407.13246},
+year={2024}
+}
+
+@article{zhang2023children,
+title={Children’s dental panoramic radiographs dataset for caries segmentation and dental disease detection},
+author={Zhang, Yifan and Ye, Fan and Chen, Lingxiao and Xu, Feng and Chen, Xiaodiao and Wu, Hongkun and Cao, Mingguo and Li, Yunxiang and Wang, Yaqi and Huang, Xingru},
+journal={Scientific Data},
+volume={10},
+number={1},
+pages={380},
+year={2023},
+publisher={Nature Publishing Group UK London}
+}
+
+@inproceedings{cui2022ctooth+,
+title={Ctooth+: A large-scale dental cone beam computed tomography dataset and benchmark for tooth volume segmentation},
+author={Cui, Weiwei and Wang, Yaqi and Li, Yilong and Song, Dan and Zuo, Xingyong and Wang, Jiaojiao and Zhang, Yifan and Zhou, Huiyu and Chong, Bung san and Zeng, Liaoyuan and others},
+booktitle={MICCAI Workshop on Data Augmentation, Labelling, and Imperfections},
+pages={64--73},
+year={2022},
+organization={Springer}
+}
+```
+
