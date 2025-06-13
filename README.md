@@ -10,7 +10,7 @@ The **STS 2024 Challenge** focuses on advancing semi-supervised learning for too
 
 Our goal is to address the limitations of labeled data in dental imaging while balancing segmentation accuracy, inference speed, and GPU resource efficiency.  
 
-![image-20250613133108457](C:\work\2025-05-13\code\STS-Challenge-2024\assets\image-20250613133108457.png)
+![image-20250613133108457](./assets/image-20250613133108457.png)
 
 ---
 
@@ -53,13 +53,13 @@ For implementation details, visit our [evaluation code repository](https://githu
 ### Track 1: 2D Panoramic X-ray Segmentation  
 **Goal**: Segment 32 permanent teeth (including wisdom teeth) and 20 deciduous teeth.  
 
-![image-20250613132918804](C:\work\2025-05-13\code\STS-Challenge-2024\assets\image-20250613132918804.png)
+![image-20250613132918804](./assets/image-20250613132918804.png)
 **Join here**: [CodaBench Competition](https://www.codabench.org/competitions/3024/#/pages-tab)   
 
 ### Track 2: 3D Dental CBCT Segmentation  
 **Goal**: Segment 32 permanent teeth in 3D CBCT scans.  
 
-![image-20250613132935913](C:\work\2025-05-13\code\STS-Challenge-2024\assets\image-20250613132935913.png)
+![image-20250613132935913](./assets/image-20250613132935913.png)
 **Join here**: [CodaBench Competition](https://www.codabench.org/competitions/3025/#/pages-tab)   
 
 ---
@@ -67,10 +67,10 @@ For implementation details, visit our [evaluation code repository](https://githu
 ## 🏅 Final Results  
 ### Panoramic X-ray Track  
 
-![image-20250613133002565](C:\work\2025-05-13\code\STS-Challenge-2024\assets\image-20250613133002565.png)
+![image-20250613133002565](./assets/image-20250613133002565.png)
 
 ### CBCT Track  
-![image-20250613133020574](C:\work\2025-05-13\code\STS-Challenge-2024\assets\image-20250613133020574.png)
+![image-20250613133020574](./assets/image-20250613133020574.png)
 
 ---
 
