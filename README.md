@@ -1,6 +1,8 @@
 # 🦷 STS 2024: 2nd Semi-supervised Teeth Segmentation MICCAI Challenge  
 **MICCAI 2024, Marrakesh, Morocco | October 6-10, 2024**  
 
+[Challenge Main Website](https://sts-challenge.github.io/miccai2024/index.html)
+
 ---
 
 ## 📌 Introduction  
