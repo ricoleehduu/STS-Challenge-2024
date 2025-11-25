@@ -107,15 +107,29 @@ For implementation details, visit our [evaluation code repository](https://githu
 ---
 
 ## 📁 Repository Structure  
-```bash
+```
 STS2024-Challenge/  
-├── README.md               # This file  
-├── assets/                 # Store competition images here  
-│   ├── panoramic_segmentation.png  
-│   ├── cbct_segmentation.png  
-│   ├── panoramic_winners.png  
-│   └── cbct_winners.png  
-└── evaluation_code/        # Official evaluation scripts (link to GitHub)  
+├── README.md                            # This file  
+├── assets/                              # Store competition images here  
+│   ├── image-20250613132918804.png      # 2D track segmentation example
+│   ├── image-20250613132935913.png      # 3D track segmentation example
+│   ├── image-20250613133002565.png      # 2D track winners visualization
+│   ├── image-20250613133020574.png      # 3D track winners visualization
+│   └── image-20250613133108457.png      # Overall challenge overview
+├── ranking/                             # Final ranking results
+│   ├── STS challenge Final rank-2D赛道.csv  # 2D track final rankings
+│   └── STS challenge Final rank-3D赛道.csv  # 3D track final rankings
+├── DockerFromParticipants/              # Participant submissions container
+│   └── docker.txt                       # Link to participant Docker submissions
+├── ppt/                                 # Presentation materials
+│   ├── 2d/                              # 2D track presentations
+│   └── 3d/                              # 3D track presentations
+├── TechnicalReport/                     # Technical reports
+│   ├── 2d/                              # 2D track technical reports
+│   └── 3d/                              # 3D track technical reports
+└── code/                                # Challenge related code
+    ├── 2d/                              # 2D track code
+    └── 3d/                              # 3D track code
 ```
 
 
