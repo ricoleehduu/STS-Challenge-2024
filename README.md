@@ -109,27 +109,74 @@ For implementation details, visit our [evaluation code repository](https://githu
 ## 📁 Repository Structure  
 ```
 STS2024-Challenge/  
-├── README.md                            # This file  
-├── assets/                              # Store competition images here  
-│   ├── image-20250613132918804.png      # 2D track segmentation example
-│   ├── image-20250613132935913.png      # 3D track segmentation example
-│   ├── image-20250613133002565.png      # 2D track winners visualization
-│   ├── image-20250613133020574.png      # 3D track winners visualization
-│   └── image-20250613133108457.png      # Overall challenge overview
-├── ranking/                             # Final ranking results
-│   ├── STS challenge Final rank-2D赛道.csv  # 2D track final rankings
-│   └── STS challenge Final rank-3D赛道.csv  # 3D track final rankings
-├── DockerFromParticipants/              # Participant submissions container
-│   └── docker.txt                       # Link to participant Docker submissions
-├── ppt/                                 # Presentation materials
-│   ├── 2d/                              # 2D track presentations
-│   └── 3d/                              # 3D track presentations
-├── TechnicalReport/                     # Technical reports
-│   ├── 2d/                              # 2D track technical reports
-│   └── 3d/                              # 3D track technical reports
-└── code/                                # Challenge related code
-    ├── 2d/                              # 2D track code
-    └── 3d/                              # 3D track code
+├── README.md                                  # This file  
+├── assets/                                    # Store competition images here  
+│   ├── image-20250613132918804.png           # 2D track segmentation example
+│   ├── image-20250613132935913.png           # 3D track segmentation example
+│   ├── image-20250613133002565.png           # 2D track winners visualization
+│   ├── image-20250613133020574.png           # 3D track winners visualization
+│   └── image-20250613133108457.png           # Overall challenge overview
+├── ranking/                                   # Final ranking results
+│   ├── [STS challenge Final rank-2D赛道.csv](./ranking/STS%20challenge%20Final%20rank-2D%E8%B5%9B%E9%81%93.csv)  # 2D track final rankings
+│   └── [STS challenge Final rank-3D赛道.csv](./ranking/STS%20challenge%20Final%20rank-3D%E8%B5%9B%E9%81%93.csv)  # 3D track final rankings
+├── DockerFromParticipants/                    # Participant submissions container
+│   └── docker.txt                            # Link to participant Docker submissions
+├── ppt/                                      # Presentation materials
+│   ├── 2d/                                   # 2D track presentations
+│   │   ├── 1 choho tech.zip
+│   │   ├── 2 camerart.pptx
+│   │   ├── 3 jichangkai.pptx
+│   │   ├── 4 dew123.pptx
+│   │   ├── 5 junqiangmler.docx
+│   │   ├── 6 isjinghao.pptx
+│   │   ├── 7 lazyman.pptx
+│   │   ├── 8 caiyichen.pptx
+│   │   ├── 9 guo77777.pptx
+│   │   └── 10 cccc2024 .pptx
+│   └── 3d/                                   # 3D track presentations
+│       ├── 1 chohotech.zip
+│       ├── 2 houwentai.zip
+│       ├── 3 madongdong.pptx
+│       ├── 4 jichangkai.pptx
+│       ├── 5 junqiangmler.docx
+│       ├── 6 haoyuuuu.pdf
+│       └── 7 gute_iici.pptx
+├── TechnicalReport/                          # Technical reports
+│   ├── 2d/                                   # 2D track technical reports
+│   │   ├── 1 chohotech.pdf
+│   │   ├── 2 camerart2024.pdf
+│   │   ├── 3 jichangkai.pdf
+│   │   ├── 4 dew123.pdf
+│   │   ├── 5 junqiangmler.docx
+│   │   ├── 6 isjinhao.pdf
+│   │   ├── 7 lazyman.pdf
+│   │   ├── 8 caiyichen.pdf
+│   │   ├── 9 guo7777.pdf
+│   │   └── 10 cccc2024.pdf
+│   └── 3d/                                   # 3D track technical reports
+│       ├── 1 chohotech.pdf
+│       ├── 2 houwentai.pdf
+│       ├── 3 madongdong.pdf
+│       ├── 4 jichangkai.pdf
+│       ├── 5 junqiangmler.docx
+│       └── 6 gute_iici.pdf
+└── code/                                     # Challenge related code
+    ├── 2d/                                   # 2D track code submissions
+    │   ├── 1 choho tech.zip
+    │   ├── 2 camerart2024.zip
+    │   ├── 3 jichangkai.zip
+    │   ├── 4 dew123.zip
+    │   ├── 5 junqiangmler.zip
+    │   ├── 6 isjinhao.zip
+    │   ├── 7 lazyman.zip
+    │   ├── 8 caiyichen.zip
+    │   └── 9 guo77777.zip
+    └── 3d/                                   # 3D track code submissions
+        ├── 1 chohotech.zip
+        ├── 3 madongdong.zip
+        ├── 4 jichangkai.zip
+        ├── 5 junqiangmler.zip
+        └── 7 gute_iici.zip
 ```
 
 
