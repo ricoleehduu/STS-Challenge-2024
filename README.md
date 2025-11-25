@@ -5,6 +5,20 @@
 
 ---
 
+## 📖 Table of Contents
+- [Introduction](#-introduction)
+- [Important Dates](#-important-dates-pst)
+- [Evaluation Metrics](#-evaluation-metrics)
+- [Ranking Scheme](#-ranking-scheme)
+- [Challenge Awards](#-challenge-awards)
+- [Tracks](#-tracks)
+- [Final Results and Reproducible Code](#-final-results--reproducible-code)
+- [Repository Structure](#-repository-structure)
+- [Direct File Links](#-direct-file-links)
+- [Reference](#reference)
+
+---
+
 ## 📌 Introduction  
 The **STS 2024 Challenge** focuses on advancing semi-supervised learning for tooth segmentation in dental imaging. We extend the 2023 challenge to multi-instance and multi-class settings, emphasizing instance-level segmentation. This year features two tracks:  
 - **2D Panoramic X-ray Segmentation**  
@@ -179,7 +193,100 @@ STS2024-Challenge/
         └── 7 gute_iici.zip
 ```
 
+## 📂 Direct File Links
 
+### 📊 Ranking Results
+- [2D Track Final Ranking](./ranking/STS%20challenge%20Final%20rank-2D%E8%B5%9B%E9%81%93.csv)
+- [3D Track Final Ranking](./ranking/STS%20challenge%20Final%20rank-3D%E8%B5%9B%E9%81%93.csv)
+
+### 🎓 Technical Reports
+<details>
+<summary>2D Track Technical Reports</summary>
+
+- [ChohoTech Technical Report](./TechnicalReport/2d/1%20chohotech.pdf)
+- [Camerart2024 Technical Report](./TechnicalReport/2d/2%20camerart2024.pdf)
+- [Jichangkai Technical Report](./TechnicalReport/2d/3%20jichangkai.pdf)
+- [Dew123 Technical Report](./TechnicalReport/2d/4%20dew123.pdf)
+- [Junqiangmler Technical Report](./TechnicalReport/2d/5%20junqiangmler.docx)
+- [Isjinhao Technical Report](./TechnicalReport/2d/6%20isjinhao.pdf)
+- [Lazyman Technical Report](./TechnicalReport/2d/7%20lazyman.pdf)
+- [Caiyichen Technical Report](./TechnicalReport/2d/8%20caiyichen.pdf)
+- [Guo7777 Technical Report](./TechnicalReport/2d/9%20guo7777.pdf)
+- [Cccc2024 Technical Report](./TechnicalReport/2d/10%20cccc2024.pdf)
+
+</details>
+
+<details>
+<summary>3D Track Technical Reports</summary>
+
+- [ChohoTech Technical Report](./TechnicalReport/3d/1%20chohotech.pdf)
+- [Houwentai Technical Report](./TechnicalReport/3d/2%20houwentai.pdf)
+- [Madongdong Technical Report](./TechnicalReport/3d/3%20madongdong.pdf)
+- [Jichangkai Technical Report](./TechnicalReport/3d/4%20jichangkai.pdf)
+- [Junqiangmler Technical Report](./TechnicalReport/3d/5%20junqiangmler.docx)
+- [Gute_iici Technical Report](./TechnicalReport/3d/6%20gute_iici.pdf)
+
+</details>
+
+### 📽 Presentation Materials
+<details>
+<summary>2D Track Presentations</summary>
+
+- [Choho Tech Presentation](./ppt/2d/1%20choho%20tech.zip)
+- [Camerart Presentation](./ppt/2d/2%20camerart.pptx)
+- [Jichangkai Presentation](./ppt/2d/3%20jichangkai.pptx)
+- [Dew123 Presentation](./ppt/2d/4%20dew123.pptx)
+- [Junqiangmler Presentation](./ppt/2d/5%20junqiangmler.docx)
+- [Isjinghao Presentation](./ppt/2d/6%20isjinghao.pptx)
+- [Lazyman Presentation](./ppt/2d/7%20lazyman.pptx)
+- [Caiyichen Presentation](./ppt/2d/8%20caiyichen.pptx)
+- [Guo77777 Presentation](./ppt/2d/9%20guo77777.pptx)
+- [Cccc2024 Presentation](./ppt/2d/10%20cccc2024%20.pptx)
+
+</details>
+
+<details>
+<summary>3D Track Presentations</summary>
+
+- [Chohotech Presentation](./ppt/3d/1%20chohotech.zip)
+- [Houwentai Presentation](./ppt/3d/2%20houwentai.zip)
+- [Madongdong Presentation](./ppt/3d/3%20madongdong.pptx)
+- [Jichangkai Presentation](./ppt/3d/4%20jichangkai.pptx)
+- [Junqiangmler Presentation](./ppt/3d/5%20junqiangmler.docx)
+- [Haoyuuuu Presentation](./ppt/3d/6%20haoyuuuu.pdf)
+- [Gute_iici Presentation](./ppt/3d/7%20gute_iici.pptx)
+
+</details>
+
+### 💻 Code Submissions
+<details>
+<summary>2D Track Code Submissions</summary>
+
+- [Choho Tech Code](./code/2d/1%20choho%20tech.zip)
+- [Camerart2024 Code](./code/2d/2%20camerart2024.zip)
+- [Jichangkai Code](./code/2d/3%20jichangkai.zip)
+- [Dew123 Code](./code/2d/4%20dew123.zip)
+- [Junqiangmler Code](./code/2d/5%20junqiangmler.zip)
+- [Isjinhao Code](./code/2d/6%20isjinhao.zip)
+- [Lazyman Code](./code/2d/7%20lazyman.zip)
+- [Caiyichen Code](./code/2d/8%20caiyichen.zip)
+- [Guo77777 Code](./code/2d/9%20guo77777.zip)
+
+</details>
+
+<details>
+<summary>3D Track Code Submissions</summary>
+
+- [Chohotech Code](./code/3d/1%20chohotech.zip)
+- [Madongdong Code](./code/3d/3%20madongdong.zip)
+- [Jichangkai Code](./code/3d/4%20jichangkai.zip)
+- [Junqiangmler Code](./code/3d/5%20junqiangmler.zip)
+- [Gute_iici Code](./code/3d/7%20gute_iici.zip)
+
+</details>
+
+### 🐳 Docker Submissions
+- [Docker Submissions Link](./DockerFromParticipants/docker.txt)
 
 ## Reference
 
