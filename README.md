@@ -7,6 +7,7 @@
 
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
+- [Dataset](#-dataset)
 - [Important Dates](#-important-dates-pst)
 - [Evaluation Metrics](#-evaluation-metrics)
 - [Ranking Scheme](#-ranking-scheme)
@@ -27,6 +28,26 @@ The **STS 2024 Challenge** focuses on advancing semi-supervised learning for too
 Our goal is to address the limitations of labeled data in dental imaging while balancing segmentation accuracy, inference speed, and GPU resource efficiency.  
 
 ![image-20250613133108457](./assets/image-20250613133108457.png)
+
+---
+
+## 📦 Dataset
+
+The datasets used in this challenge are publicly available for research purposes:
+
+### 2D Panoramic X-ray Dataset
+- Based on the Children's dental panoramic radiographs dataset for caries segmentation and dental disease detection [[Zhang et al., 2023](#reference)]
+- Google Drive: [STS 2024 2D Dataset](https://drive.google.com/drive/folders/1-Ip8-bvSsQG4wFeS1aACZH4teIhKgSkt?usp=sharing)
+- Baidu Drive: [STS 2024 2D Dataset](https://pan.baidu.com/s/1LAk414hRJLta9SFAie4Etg) (Code: xp7e)
+- Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17712688.svg)](https://doi.org/10.5281/zenodo.17712688)
+
+### 3D CBCT Dataset
+- Based on the CTooth+ dataset [[Cui et al., 2022](#reference)]
+- Google Drive: [STS 2024 3D Dataset](https://drive.google.com/drive/folders/1-Ip8-bvSsQG4wFeS1aACZH4teIhKgSkt?usp=sharing)
+- Baidu Drive: [STS 2024 3D Dataset](https://pan.baidu.com/s/1LAk414hRJLta9SFAie4Etg) (Code: xp7e)
+- Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17712688.svg)](https://doi.org/10.5281/zenodo.17712688)
+
+These datasets can be downloaded and used for verification and reproducibility of the challenge results.
 
 ---
 
