@@ -312,11 +312,34 @@ STS2024-Challenge/
 ## Reference
 
 ```
-@article{wang2024sts,
-title={STS MICCAI 2023 Challenge: Grand challenge on 2D and 3D semi-supervised tooth segmentation},
-author={Wang, Yaqi and Zhang, Yifan and Chen, Xiaodiao and Wang, Shuai and Qian, Dahong and Ye, Fan and Xu, Feng and Zhang, Hongyuan and Zhang, Qianni and Wu, Chengyu and others},
-journal={arXiv preprint arXiv:2407.13246},
-year={2024}
+@article{wang2026miccai,
+  title={MICCAI 2023 STS Challenge: A retrospective study of semi-supervised approaches for teeth segmentation},
+  author={Wang, Yaqi and Zhang, Yifan and Chen, Xiaodiao and Wang, Shuai and Qian, Dahong and Ye, Fan and Xu, Feng and Zhang, Hongyuan and Dan, Ruilong and Zhang, Qianni and others},
+  journal={Pattern Recognition},
+  volume={170},
+  pages={112049},
+  year={2026},
+  publisher={Elsevier}
+}
+
+@misc{wang2025miccaists2024challenge,
+      title={MICCAI STS 2024 Challenge: Semi-Supervised Instance-Level Tooth Segmentation in Panoramic X-ray and CBCT Images}, 
+      author={Yaqi Wang and Zhi Li and Chengyu Wu and Jun Liu and Yifan Zhang and Jiaxue Ni and Qian Luo and Jialuo Chen and Hongyuan Zhang and Jin Liu and Can Han and Kaiwen Fu and Changkai Ji and Xinxu Cai and Jing Hao and Zhihao Zheng and Shi Xu and Junqiang Chen and Qianni Zhang and Dahong Qian and Shuai Wang and Huiyu Zhou},
+      year={2025},
+      eprint={2511.22911},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2511.22911}, 
+}
+
+@article{bao2025deep,
+  title={Deep ensemble learning-driven fully automated multi-structure segmentation for precision craniomaxillofacial surgery},
+  author={Bao, Jiahao and Tan, Zongcai and Sun, Yifeng and Xu, Xinyu and Liu, Huazhen and Cui, Weiyi and Yang, Yang and Cheng, Mengjia and Wang, Yiming and Ku, Congshuang and others},
+  journal={Frontiers in Bioengineering and Biotechnology},
+  volume={13},
+  pages={1580502},
+  year={2025},
+  publisher={Frontiers Media SA}
 }
 
 @article{zhang2023children,
@@ -330,13 +353,5 @@ year={2023},
 publisher={Nature Publishing Group UK London}
 }
 
-@inproceedings{cui2022ctooth+,
-title={Ctooth+: A large-scale dental cone beam computed tomography dataset and benchmark for tooth volume segmentation},
-author={Cui, Weiwei and Wang, Yaqi and Li, Yilong and Song, Dan and Zuo, Xingyong and Wang, Jiaojiao and Zhang, Yifan and Zhou, Huiyu and Chong, Bung san and Zeng, Liaoyuan and others},
-booktitle={MICCAI Workshop on Data Augmentation, Labelling, and Imperfections},
-pages={64--73},
-year={2022},
-organization={Springer}
-}
 ```
 
